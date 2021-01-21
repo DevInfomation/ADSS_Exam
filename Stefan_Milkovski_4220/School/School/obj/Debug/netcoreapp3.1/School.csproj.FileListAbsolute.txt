@@ -1,0 +1,12 @@
+C:\Exams\School\School\bin\Debug\netcoreapp3.1\School.exe
+C:\Exams\School\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\Exams\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+C:\Exams\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+C:\Exams\School\School\bin\Debug\netcoreapp3.1\School.dll
+C:\Exams\School\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\Exams\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Exams\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Exams\School\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+C:\Exams\School\School\obj\Debug\netcoreapp3.1\School.dll
+C:\Exams\School\School\obj\Debug\netcoreapp3.1\School.pdb
+C:\Exams\School\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
